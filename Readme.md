@@ -3,7 +3,7 @@
 
 ## Simple landing page website.
 
-## See live [Live-Project-1](https://live-project-2n.netlify.app)
+## See live [Live-Project-1](https://liveproject-3.netlify.app/)
 
 ![img](Live-proj-3.png)
 
