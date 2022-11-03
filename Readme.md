@@ -5,7 +5,7 @@
 
 ## See live [Live-Project-1](https://liveproject-3.netlify.app/)
 
-![img](Live-proj-3.png)
+![img](live-proj-3.png)
 
 ### Time took to complete this project : 4hrs .
 ### Learn so much new css properties .
